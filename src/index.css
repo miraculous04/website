@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: 'Lato', sans-serif;
+}
+
+.permanent-marker {
+  font-family: 'Permanent Marker', cursive;
+}
